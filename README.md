@@ -12,3 +12,4 @@
 ## Windows
 
 - [Duplicate Cleaner Pro 4.1.4](windows/DuplicateCleanerPro/DuplicateCleanerPro-4.1.4.zip) 重复文件清理工具
+- [360 断网急救箱](windows/360断网急救箱/360NetRepair-10.1.zip) 360 断网急救箱
